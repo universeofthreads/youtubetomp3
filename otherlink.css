@@ -1,0 +1,48 @@
+#bottom{
+    padding-top:22%;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-kerning: normal;
+    font-stretch:ultra-expanded;
+        color: #532e30;
+        padding-bottom: 10%;
+}
+
+
+.company-heading h1 {
+    margin-bottom: 40px;
+    line-height: 80px;
+    color: #fff;
+    font-weight: 700 !important;
+    text-align: center;
+}
+
+.company-sections h2, .careers-sections h2, .perks-section h2 {
+    font-weight: 800;
+    font-size: 50px;
+}
+.company-sections h2, .company-sections h3, .
+.company-sections h3 {
+    font-size: 25px;
+    font-weight: 700;
+    margin: 14px 0;
+    font-family: 'proxima-nova', sans-serif;
+    text-transform: capitalize;
+}
+.red-border {
+    width: 50%;
+    border-bottom: 1px solid #d2282e;
+    margin: 0 auto;
+    height: 10px;
+    padding-bottom: 5px;
+    
+}
+
+.ct-u-size22 {
+    font-size: 22px;
+}
+.ct-u-fontWeight300 {
+    font-weight: 300;
+}
+
+
